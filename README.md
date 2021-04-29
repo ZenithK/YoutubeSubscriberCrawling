@@ -12,6 +12,7 @@ Chrome의 경우 무한 로딩이 발생하는 버그가 발생합니다.
 
 해당 프로젝트는 Selenium과 BeautifulSoup을 사용하여 진행되기 때문에
 2개의 패키지에 의존하여 실행이 됩니다.
+또한, 해당 브라우저의 버전에 맞는 브라우저 드라이버의 설치가 필요합니다.
 
 따라서, 2개의 패키지의 설치가 필요하고 커맨더 창에서 pip install selenium, pip install BeautifilSoup을 통해
 패키지 설치가 가능합니다.
